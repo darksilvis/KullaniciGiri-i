@@ -1,2 +1,2 @@
-# KullaniciGiri-i
-bu proje kullanıcı girişi projesi. kullanıcının 3 kez yanlış girme hakkı var sonrasında şifre resetlenip yeni şifre oluşturuluyor ve kullanıcı yeni şifreyle giriş yapıyor
+# KullaniciGirişi
+bu projede kullanıcının username ve password girmesini istedim 3 kere giriş hakkı var doğru girerse uygulamaya giriyor yanlış girerse giriş hakkı azalıyor 3 kere yanlış girdiğinde kullanıcıya soruyor şifre sıfırlansın mı diye yes derse yeni şifre oluşturuyor ve daha sonra tekrardan username ve password girmesini istiyor kullanıcının doğru girip girmediğini test etmek için ve bu yeni  şifreyi dosyaya kaydediyor (password.txt)  program kapatılıp yeniden çalıştırıldığında kullanıcı bu yeni şifreyle giriş yapmış oluyor. Yani program kapatılıp yeniden başlatıldığında program baştan başlatılmış  gibi olmuyor  eski şifreyi kabul etmiyor yani kaldığı yerden devam ediyor
